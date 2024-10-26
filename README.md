@@ -28,9 +28,8 @@ List the technologies and frameworks you used (e.g., CopilotKit, Next.js)
 
 ### GitHub Repo Link: 
 
-### 5 bonus points
+### 5 Live Link
 
-- If your app is live, include the link here:
 - [Live app]()
  
 ## 6. Screenshot
@@ -40,17 +39,15 @@ List the technologies and frameworks you used (e.g., CopilotKit, Next.js)
 ![image](https://github.com/user-attachments/assets/22388ceb-6ef6-4e6f-a2e4-34f9ebe43105)
 
 
-## 7. Who Are You?
+## 7. Who am i?
 
 Please list your **GitHub** and **Twitter** handles if you feel comfortable doing so. 
 
 - [sanket on github](https://github.com/sanketshinde3001)
 - [sanket on X](https://x.com/sanketshinde04)
 
-## 5 Extra Bonus Points
-Link to any bonus activities you did such as solving GitHub Issues or posting to Twitter, Dev.to, Medium, etc related to your project and CopilotKit.
+## 8. Posts
+
 - A dev.to blog link - [Link](https://dev.to/sanketshinde/recipe-generator-powered-by-copilotkit-chatbot-2nl0)
 - Tweet link - [Link](https://x.com/sanketshinde04/status/1845898967038521511)
 
-
-#issue 602 : Build a chatbot that gives real-time weather updates using CopilotKit's AI interaction capabilities.
